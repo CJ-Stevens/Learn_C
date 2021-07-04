@@ -1,9 +1,9 @@
 # Learn_C
-🐙Learn C# programming<br>
+` ` `🐙Learn C# programming` ` `<br>
 [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+[Growth Mindset for Leaders in IT Industry - techWebinarNepal](https://morioh.com/p/a5dad72daeb4)<br>
 []()<br>
-[]()<br>
-### คำถามเกี่ยวกับ C# interview questions and answers
+` ` ` คำถามเกี่ยวกับ C# interview questions and answers` ` `<br>
 [C# interview questions and answers](https://www.youtube.com/watch?v=BKynEBPqiIM)<br>
 []()<br>
 []()<br>
