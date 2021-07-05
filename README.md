@@ -5,5 +5,5 @@
 []()<br>
 ` ` ` คำถามเกี่ยวกับ C# interview questions and answers` ` `<br>
 [C# interview questions and answers](https://www.youtube.com/watch?v=BKynEBPqiIM)<br>
-[]()<br>
+[csharp Condition Questions & Answers](https://www.tutorialsteacher.com/question-answer/csharp/conditions)<br>
 []()<br>
